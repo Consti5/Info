@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Verwaltung
+comment1.params=
+comment1.target=Verwaltung()
+comment2.params=aki
+comment2.target=void\ main(BinaryTree)
+comment3.params=aki
+comment3.target=void\ oberflaeche(BinaryTree)
+comment4.params=current\ aki
+comment4.target=void\ hinzufuegen(BinaryTree,\ BinaryTree)
+comment5.params=temp\ aki
+comment5.target=BinaryTree\ tausche(BinaryTree,\ BinaryTree)
+numComments=6
